@@ -1,0 +1,13 @@
+;aiu;
+
+[Update]
+Name = DeepMail
+ProductVersion = 1.6.42
+URL = https://www.iridium-soft.com//downloads/DeepMail-1.6.42-win.msi
+Size = 405564928
+SHA256 = D7389454C5B8022DE8A03E190F2EF9DD8F5A1F07669615B303A93F35C8EA1821
+MD5 = b58d0df2ca1a27d363728aec436c5057
+ServerFileName = DeepMail-1.6.42-win (8).msi
+Flags = Critical
+RegistryKey = HKLM\Software\NPC MAX\DeepMail\Version
+Version = 1.6.42
